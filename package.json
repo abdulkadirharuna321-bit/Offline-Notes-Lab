@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+    "homepage": "https://abdulkadirharuna321-bit/github.io/Offline-Note-Lab/",
     "preview": "vite preview",
     "check": "tsc --noEmit",
     "deploy": "gh-pages -d dist"
