@@ -1,6 +1,6 @@
 # Offline Notes Lab
 
-**Name:** Abdulmanan Gomina  
+**Name:** Abdu
 **Matric Number:** 2024/1/95119ET
 
 A beginner-friendly offline-first Progressive Web App (PWA) built with React, Vite, and a hand-written service worker.
